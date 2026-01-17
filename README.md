@@ -4,7 +4,8 @@
 
 <p align="center">
 
-&nbsp; <img src="assets/laliga\_logo.png" alt="La Liga Logo" width="200"/>
+&nbsp; <img src="assets/laliga_trophy.png" alt="La Liga Trophy" width="180"/>
+
 
 </p>
 
@@ -54,7 +55,8 @@ competitive leagues in the world, featuring legendary clubs such as
 
 <p align="center">
 
-&nbsp; <img src="assets/laliga\_trophy.png" alt="La Liga Trophy" width="180"/>
+&nbsp; <img src="assets/laliga_logo.png" alt="La Liga Logo" width="200"/>
+
 
 </p>
 
